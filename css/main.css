@@ -1,0 +1,245 @@
+
+
+header {
+  height: 100px;
+  border: 2px solid white;
+  padding: 5px 5px 5px 5px;
+}
+
+
+nav {
+  color: #23C9F8;
+  font color: #23C9F8;
+  float: left;
+  display: inline;
+
+}
+
+
+body {
+ font-family: 'Russo One', sans-serif;
+ font-size: 14pt;
+}
+
+ul {
+  color: white;
+  list-style-type: ;
+  margin: 0;
+  padding: 35px;
+}
+
+ol {
+  color: white;
+  list-style-type: ;
+  margin: 0;
+  padding: 35px;
+}
+
+aside {
+  width: 50%;
+  clear: left;
+  display: inline;
+} 
+
+img{
+  width: 40%;
+  padding-left: 10px;
+
+}
+
+h1 {
+  font-family: 'Gravitas One', cursive;
+  font-size: 30pt;
+  background-color: #CBCCD1;
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid black;
+  float: left;
+  color: #25232D;
+}
+
+
+h2 {
+  font-family: 'Contrail One', cursive;
+  text-align: center;
+  font-size: 28pt;
+  color: #23C9F8;
+  float: right;
+  display: inline;
+  padding-right: 35px;
+}
+
+
+h3{
+  color: white;
+  font-size: 18pt;
+  text-align: center;
+}
+
+
+a {
+  color: inherit;
+  text-align: center;
+}
+
+footer {
+  height: 50px;
+  color: #F7483B;
+  font color: #23C9F8;
+  text-align: center;
+}
+
+
+
+/*Let's make some other stuff look cool!*/
+
+.topline{
+  float: right;
+  display: inline;
+  color: #9CC4E4;
+  font-size: 30pt;
+  padding: 30px 10px 10px 20px;
+
+
+}
+
+.Bridge {
+  text-align: center;
+  border: 1px solid white;
+}
+
+.Herosection{
+  /* no style on image */
+  border: none;
+
+}
+
+.SubTitle{
+  display: inline-block;
+  max-width: 50%;
+  margin-right: 50px;
+  padding-right: 0;
+}
+
+.Intro{
+  float: right;
+  text-align: center;
+  color: #CBCCD1;
+  display: inline-block;
+  font-size: 16pt;
+  font color: #25232D;
+  max-width: 50%;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+.BuildSomething{
+  text-align: center;
+  background-color: blue;
+  color: white;
+  border: 1px solid black;
+  font-size: 24pt;
+}
+
+.Bootcamps {
+  background-color: #D14334;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+  font color: #25232D;
+}
+
+.Why {
+  background-color: #1B325F;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid white;
+}
+
+.What {
+  background-color: #1B325F;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid white;
+  font-color: #25232D;
+}
+
+.How {
+  background-color: #005BC5;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid white;
+}
+.Hero {
+ width: 100%;
+ padding: 10px 5px 10px 5px;
+ border: 1px solid black;
+}
+
+.Bschools {
+  background-color: #02483E;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+}
+
+.Build {
+  background-color: #3A89C9;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+  margin: 5px 5px 5px 5px;
+}
+
+.Submit {
+  background-color: #F7483B;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+}
+
+.Fund {
+  background-color: #C7D8AB;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+}
+
+
+.Develop {
+  background-color: #3A89C9;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+}
+
+
+.Partners {
+  background-color: #1B325F;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+}
+
+.SignUp {
+  background-color: #FB0C06;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+  font color: white;
+}
+
+.Hidden{
+  display: none;
+}
+
+.Social{
+  background-color: #9CC4E4;
+  text-align: center;
+}
+
+.CTAs{
+  background-color: #9CC4E4;
+  text-align: center;
+}
+
