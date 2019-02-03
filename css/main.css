@@ -39,6 +39,7 @@ aside {
   width: 50%;
   clear: left;
   display: inline;
+  float: left;
 } 
 
 img{
