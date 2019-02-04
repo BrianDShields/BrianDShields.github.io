@@ -12,7 +12,6 @@ nav {
   font color: #23C9F8;
   float: left;
   display: inline;
-
 }
 
 
@@ -90,8 +89,6 @@ footer {
   text-align: center;
 }
 
-
-
 /*Let's make some other stuff look cool!*/
 
 .topline{
@@ -100,8 +97,6 @@ footer {
   color: #9CC4E4;
   font-size: 30pt;
   padding: 30px 10px 10px 20px;
-
-
 }
 
 .Bridge {
@@ -173,7 +168,7 @@ footer {
 .Hero {
  width: 100%;
  padding: 10px 5px 10px 5px;
- border: 1px solid black;
+ border: 1px solid white;
 }
 
 .Bschools {
