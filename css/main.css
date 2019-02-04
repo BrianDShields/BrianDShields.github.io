@@ -2,7 +2,6 @@
 
 header {
   height: 100px;
-  border: 2px solid white;
   padding: 5px 5px 5px 5px;
 }
 
@@ -49,11 +48,9 @@ img{
 
 h1 {
   font-family: 'Gravitas One', cursive;
-  font-size: 30pt;
-  background-color: #CBCCD1;
+  font-size: 26pt;
   padding: 20px;
   margin: 5px;
-  border: 1px solid white;
   float: left;
   color: #25232D;
 }
