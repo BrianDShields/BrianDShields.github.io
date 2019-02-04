@@ -123,7 +123,7 @@ footer {
   display: inline-block;
   font-size: 16pt;
   font color: #25232D;
-  max-width: 80%;
+  max-width: 100%;
   margin-right: 50px;
   margin-bottom: 20px;
 }
@@ -186,7 +186,7 @@ footer {
 }
 
 .Submit {
-  background-color: #F7483B;
+  background-color: #02483E;
   color: white;
   padding: 10px 5px 10px 5px;
   border: 1px solid white;
@@ -201,7 +201,7 @@ footer {
 
 
 .Develop {
-  background-color: #3A89C9;
+  background-color: #005BC5;
   color: white;
   padding: 10px 5px 10px 5px;
   border: 1px solid white;
