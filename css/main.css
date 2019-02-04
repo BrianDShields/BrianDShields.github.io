@@ -118,12 +118,12 @@ footer {
 }
 
 .Intro{
-  text-align: center;
+  text-align: left;
   color: #CBCCD1;
   display: inline-block;
-  font-size: 16pt;
+  font-size: 14pt;
   font color: #25232D;
-  max-width: 100%;
+  max-width: 90%;
   margin-right: 50px;
   margin-bottom: 20px;
 }
