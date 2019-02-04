@@ -7,8 +7,7 @@ header {
 
 
 nav {
-  color: #23C9F8;
-  font color: #23C9F8;
+  color: #9CC4E4;
   float: left;
   display: inline;
 }
@@ -16,7 +15,7 @@ nav {
 
 body {
  font-family: 'Russo One', sans-serif;
- font-size: 14pt;
+ font-size: 12pt;
 }
 
 ul {
@@ -48,7 +47,7 @@ img{
 
 h1 {
   font-family: 'Gravitas One', cursive;
-  font-size: 26pt;
+  font-size: 24pt;
   padding: 20px;
   margin: 5px;
   float: left;
@@ -108,7 +107,7 @@ footer {
   float: right;
   display: inline;
   color: #9CC4E4;
-  font-size: 30pt;
+  font-size: 24pt;
   padding: 30px 10px 10px 20px;
 }
 
