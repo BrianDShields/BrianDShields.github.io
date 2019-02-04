@@ -54,7 +54,7 @@ h1 {
   background-color: #CBCCD1;
   padding: 20px;
   margin: 5px;
-  border: 1px solid black;
+  border: 1px solid white;
   float: left;
   color: #25232D;
 }
@@ -137,7 +137,7 @@ footer {
   text-align: center;
   background-color: blue;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   font-size: 24pt;
 }
 
@@ -145,7 +145,7 @@ footer {
   background-color: #D14334;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
   font color: #25232D;
 }
 
@@ -180,14 +180,14 @@ footer {
   background-color: #02483E;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 .Build {
   background-color: #3A89C9;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 5px 5px 5px 5px;
 }
 
@@ -195,14 +195,14 @@ footer {
   background-color: #F7483B;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 .Fund {
   background-color: #C7D8AB;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 
@@ -210,7 +210,7 @@ footer {
   background-color: #3A89C9;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 
@@ -218,7 +218,7 @@ footer {
   background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 .SignUp {
