@@ -215,6 +215,7 @@ footer {
 
 .SignUp {
   background-color: #FB0C06;
+  font-family: 'Russo One', sans-serif;
   color: white;
   border: 1px solid black;
   font color: white;
@@ -226,11 +227,13 @@ footer {
 
 .Social{
   background-color: #9CC4E4;
+  font-family: 'Russo One', sans-serif;
   text-align: center;
 }
 
 .CTAs{
   background-color: #9CC4E4;
+  font-family: 'Russo One', sans-serif;
   text-align: center;
 }
 
