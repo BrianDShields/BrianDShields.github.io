@@ -192,6 +192,7 @@ a:active {
   color: white;
   border: 1px solid black;
   font color: white;
+  text-align: center;
 }
 
 .Hidden{
@@ -216,6 +217,6 @@ footer {
   font color: #23C9F8;
   text-align: center;
   font-family: 'Cormorant', regular;
- font-size: 14pt;
+  font-size: 14pt;
 }
 
