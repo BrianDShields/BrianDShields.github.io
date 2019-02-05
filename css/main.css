@@ -15,14 +15,12 @@ body {
 }
 
 h1 {
-  font-size: 24pt;
-  padding: 20px;
-  float: left;
+   font-family: 'Cormorant', regular;
+ font-size: 14pt;
 }
 
 h2 {
   font-family: 'Cormorant', regular;
-  text-align: center;
   font-size: 28pt;
   color: #9CC4E4;
   float: unset;
@@ -84,13 +82,20 @@ a:active {
   text-decoration: underline;
 }
 
+.title{
+  float: left;
+  display: inline;
+  font-size: 24pt;
+  padding: 30px 10px 10px 20px;
+  color: white;
+}
+
 .topline{
   float: right;
   display: inline;
   font-size: 24pt;
   padding: 30px 10px 10px 20px;
-  
-  
+  color: white;
 }
 
 .Bridge {
