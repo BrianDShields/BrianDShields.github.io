@@ -60,15 +60,15 @@ h2 {
   text-align: center;
   font-size: 28pt;
   color: #9CC4E4;
-  float: right;
+  float: unset;
   display: inline;
-  padding-right: 35px;
+  padding-left: 35px;
 }
 
 
 h3{
   color: white;
-  font-size: 18pt;
+  font-size: 14pt;
   text-align: center;
 }
 
@@ -138,6 +138,7 @@ footer {
   max-width: 90%;
   margin-right: 50px;
   margin-bottom: 20px;
+  padding-left: 35px;
 }
 
 .BuildSomething{
