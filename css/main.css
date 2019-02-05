@@ -228,12 +228,15 @@ a:active {
   background-color: #9CC4E4;
   font-family: 'Russo One', sans-serif;
   text-align: center;
+  font-size: 12pt;
 }
 
 .CTAs{
   background-color: #9CC4E4;
   font-family: 'Russo One', sans-serif;
   text-align: center;
+  font-size: 12pt;
+
 }
 
 footer {
@@ -242,6 +245,6 @@ footer {
   font color: #23C9F8;
   text-align: center;
   font-family: 'Cormorant', regular;
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
