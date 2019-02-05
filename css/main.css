@@ -15,10 +15,8 @@ body {
 }
 
 h1 {
-  font-family: 'Gravitas One',;
   font-size: 24pt;
   padding: 20px;
-  margin: 5px;
   float: left;
 }
 
@@ -91,6 +89,8 @@ a:active {
   display: inline;
   font-size: 24pt;
   padding: 30px 10px 10px 20px;
+  
+  
 }
 
 .Bridge {
