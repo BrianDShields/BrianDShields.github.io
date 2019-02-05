@@ -127,7 +127,7 @@ a:active {
   background-color: blue;
   color: white;
   border: 1px solid white;
-  font-size: 14pt;
+  font-size: 18pt;
 }
 
 .Bootcamps {
@@ -236,4 +236,6 @@ footer {
   color: #F7483B;
   font color: #23C9F8;
   text-align: center;
+  font-family: 'Russo One', sans-serif;
+
 }
