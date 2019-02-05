@@ -109,10 +109,12 @@ a:active {
 }
 
 .SubTitle{
-  display: inline-block;
-  max-width: 50%;
-  margin-right: 50px;
-  padding-right: 0;
+  font-family: 'Cormorant', regular;
+  font-size: 28pt;
+  color: #9CC4E4;
+  float: left;
+  display: inline;
+  padding-left: 35px;
 }
 
 .Intro{
