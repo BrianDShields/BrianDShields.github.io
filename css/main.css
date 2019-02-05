@@ -82,7 +82,7 @@ a:active {
   text-decoration: underline;
 }
 
-.homepage-title(
+.homepage-title{
   float: left;
   display: inline;
   font-size: 24pt;
