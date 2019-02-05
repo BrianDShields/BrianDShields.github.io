@@ -82,6 +82,15 @@ a:active {
   text-decoration: underline;
 }
 
+.homepage-title(
+  float: left;
+  display: inline;
+  font-size: 24pt;
+  padding: 30px 10px 10px 20px;
+  color: black;
+}
+
+
 .title{
   float: left;
   display: inline;
