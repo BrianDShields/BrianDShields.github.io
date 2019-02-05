@@ -99,6 +99,14 @@ a:active {
   color: white;
 }
 
+.homepage-topline{
+  float: right;
+  display: inline;
+  font-size: 24pt;
+  padding: 30px 10px 10px 20px;
+  color: black;
+}
+
 .topline{
   float: right;
   display: inline;
