@@ -2,10 +2,10 @@ header {
   height: 80px;
   padding: 5px 5px 5px 5px;
   font-family: 'Cormorant', regular;
+  color: black;
 }
 
 nav {
-  color: #9CC4E4;
   float: left;
   display: inline;
 }
@@ -47,7 +47,6 @@ h1 {
   padding: 20px;
   margin: 5px;
   float: left;
-  color: #9CC4E4;
 }
 
 h2 {
@@ -97,7 +96,6 @@ footer {
 .topline{
   float: right;
   display: inline;
-  color: #9CC4E4;
   font-size: 24pt;
   padding: 30px 10px 10px 20px;
 }
