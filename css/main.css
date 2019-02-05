@@ -1,10 +1,8 @@
-
-
 header {
   height: 80px;
   padding: 5px 5px 5px 5px;
+  font-family: 'Cormorant', regular;
 }
-
 
 nav {
   color: #9CC4E4;
@@ -12,10 +10,9 @@ nav {
   display: inline;
 }
 
-
 body {
  font-family: 'Russo One', sans-serif;
- font-size: 12pt;
+ font-size: 14pt;
 }
 
 ul {
@@ -42,7 +39,6 @@ aside {
 img{
   width: 40%;
   padding-left: 10px;
-
 }
 
 h1 {
@@ -54,7 +50,6 @@ h1 {
   color: #9CC4E4;
 }
 
-
 h2 {
   font-family: 'Cormorant', regular;
   text-align: center;
@@ -65,13 +60,11 @@ h2 {
   padding-left: 35px;
 }
 
-
 h3{
   color: white;
   font-size: 14pt;
   text-align: center;
 }
-
 
 a {
   color: inherit;
@@ -101,8 +94,6 @@ footer {
   text-align: center;
 }
 
-/*Let's make some other stuff look cool!*/
-
 .topline{
   float: right;
   display: inline;
@@ -119,7 +110,6 @@ footer {
 .Herosection{
   /* no style on image */
   border: none;
-
 }
 
 .SubTitle{
@@ -212,14 +202,12 @@ footer {
   border: 1px solid white;
 }
 
-
 .Develop {
   background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
   border: 1px solid white;
 }
-
 
 .Partners {
   background-color: #1B325F;
