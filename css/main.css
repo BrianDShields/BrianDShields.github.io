@@ -10,7 +10,7 @@ nav {
 }
 
 body {
-  font-family: 'Cormorant', regular;
+ font-family: 'Cormorant', regular;
  font-size: 14pt;
 }
 
@@ -124,40 +124,30 @@ a:active {
 
 .BuildSomething{
   text-align: center;
-  background-color: blue;
   color: white;
-  border: 1px solid white;
   font-size: 18pt;
 }
 
 .Bootcamps {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
   font color: #25232D;
 }
 
 .Why {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 
 .What {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
   font-color: #25232D;
 }
 
 .How {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 .Hero {
  width: 100%;
@@ -165,46 +155,35 @@ a:active {
 }
 
 .Bschools {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 
 .Build {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
   margin: 5px 5px 5px 5px;
 }
 
 .Submit {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 
 .Fund {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 
 .Develop {
-  background-color: #1B325F;
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 
 .Partners {
-  background-color: #1B325F;
+  background-color: #1B325F
   color: white;
   padding: 10px 5px 10px 5px;
-  border: 1px solid white;
 }
 
 .SignUp {
@@ -233,9 +212,10 @@ a:active {
 
 footer {
   height: 50px;
-  color: #F7483B;
+  color: #9CC4E4;
   font color: #23C9F8;
   text-align: center;
-  font-family: 'Russo One', sans-serif;
-
+  font-family: 'Cormorant', regular;
+ font-size: 14pt;
 }
+
