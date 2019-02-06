@@ -164,7 +164,7 @@ a:active {
 .BuildSomething{
   text-align: center;
   color: white;
-  font-size: 18pt;
+  font-size: 22pt;
   background-color: #1B325F;
   font-family: 'Cormorant', regular;
 }
@@ -244,14 +244,14 @@ a:active {
   background-color: #9CC4E4;
   font-family: 'Cormorant', regular;
   text-align: center;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 .CTAs{
   background-color: #9CC4E4;
   font-family: 'Cormorant', regular;
   text-align: center;
-  font-size: 12pt;
+  font-size: 14pt;
 
 }
 
@@ -261,6 +261,6 @@ footer {
   font color: #23C9F8;
   text-align: center;
   font-family: 'Cormorant', regular;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
