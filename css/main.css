@@ -150,6 +150,17 @@ a:active {
   padding-left: 35px;
 }
 
+.Foundation{
+  text-align: left;
+  display: inline-block;
+  font-size: 14pt;
+  font color: white;
+  max-width: 90%;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  padding-left: 35px;
+}
+
 .BuildSomething{
   text-align: center;
   color: white;
