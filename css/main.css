@@ -166,6 +166,7 @@ a:active {
   color: white;
   font-size: 18pt;
   background-color: #1B325F;
+  font-family: 'Cormorant', regular;
 }
 
 .Bootcamps {
@@ -228,7 +229,7 @@ a:active {
 
 .SignUp {
   background-color: #FB0C06;
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Cormorant', regular;
   color: white;
   border: 1px solid black;
   font color: white;
@@ -241,14 +242,14 @@ a:active {
 
 .Social{
   background-color: #9CC4E4;
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Cormorant', regular;
   text-align: center;
   font-size: 12pt;
 }
 
 .CTAs{
   background-color: #9CC4E4;
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Cormorant', regular;
   text-align: center;
   font-size: 12pt;
 
