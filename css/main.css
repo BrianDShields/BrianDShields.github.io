@@ -54,7 +54,6 @@ ol {
   padding: 35px;
 }
 
-
 a {
   color: inherit;
   text-align: center;
@@ -84,7 +83,6 @@ a:active {
   color: black;
 }
 
-
 .title{
   float: left;
   display: inline;
@@ -109,7 +107,6 @@ a:active {
   color: white;
 }
 
-
 .SubTitle{
   font-family: 'Cormorant', regular;
   font-size: 28pt;
@@ -131,17 +128,6 @@ a:active {
   padding-left: 35px;
 }
 
-.Foundation{
-  text-align: left;
-  display: inline-block;
-  font-size: 14pt;
-  font color: white;
-  max-width: 80%;
-  margin-right: 50px;
-  margin-bottom: 20px;
-  padding-left: 35px;
-}
-
 .BuildSomething{
   text-align: center;
   color: white;
@@ -156,8 +142,7 @@ a:active {
   font color: #25232D;
 }
 
-
-.SignUp {
+.Meeting {
   background-color: #FB0C06;
   font-family: 'Cormorant', regular;
   color: white;
@@ -165,7 +150,6 @@ a:active {
   font color: white;
   text-align: center;
 }
-
 
 .Social{
   background-color: #9CC4E4;
