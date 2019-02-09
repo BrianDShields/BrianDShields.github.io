@@ -54,17 +54,6 @@ ol {
   padding: 35px;
 }
 
-aside {
-  width: 50%;
-  clear: left;
-  display: inline;
-  float: left;
-} 
-
-img{
-  width: 40%;
-  padding-left: 10px;
-}
 
 a {
   color: inherit;
@@ -120,15 +109,6 @@ a:active {
   color: white;
 }
 
-.Bridge {
-  text-align: center;
-  border: 1px solid white;
-}
-
-.Herosection{
-  /* no style on image */
-  border: none;
-}
 
 .SubTitle{
   font-family: 'Cormorant', regular;
@@ -176,57 +156,6 @@ a:active {
   font color: #25232D;
 }
 
-.Why {
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
-
-.What {
-  color: white;
-  padding: 10px 5px 10px 5px;
-  font-color: #25232D;
-}
-
-.How {
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
-.Hero {
- width: 100%;
- padding: 10px 5px 10px 5px;
-}
-
-.Bschools {
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
-
-.Build {
-  color: white;
-  padding: 10px 5px 10px 5px;
-  margin: 5px 5px 5px 5px;
-}
-
-.Submit {
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
-
-.Fund {
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
-
-.Develop {
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
-
-.Partners {
-  background-color: #1B325F
-  color: white;
-  padding: 10px 5px 10px 5px;
-}
 
 .SignUp {
   background-color: #FB0C06;
@@ -237,23 +166,12 @@ a:active {
   text-align: center;
 }
 
-.Hidden{
-  display: none;
-}
 
 .Social{
   background-color: #9CC4E4;
   font-family: 'Cormorant', regular;
   text-align: center;
   font-size: 14pt;
-}
-
-.CTAs{
-  background-color: #9CC4E4;
-  font-family: 'Cormorant', regular;
-  text-align: center;
-  font-size: 14pt;
-
 }
 
 footer {
@@ -264,4 +182,5 @@ footer {
   font-family: 'Cormorant', regular;
   font-size: 12pt;
 }
+
 
