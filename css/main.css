@@ -33,7 +33,7 @@ h2 {
 
 h3{
   color: white;
-  font-size: calc(18px + (32 - 18) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
   text-align: left;
   }
 
