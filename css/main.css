@@ -28,8 +28,8 @@ h2 {
 
 h3{
   color: white;
-  font-size: 14pt;
-}
+  font-size: 18pt;
+  text-align: left;}
 
 p {
   font-family: 'Cormorant', regular;
@@ -45,7 +45,7 @@ ul {
 
 ol {
   color: white;
-  padding: 35px;
+  padding: 5px 35px 5px 35px;
 }
 
 a {
