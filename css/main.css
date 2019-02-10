@@ -12,7 +12,6 @@ nav {
 body {
  font-family: 'Cormorant', regular;
  font-size: 14pt;
- /* padding: 5px 35px 5px 35px; */
 }
 
 h1 {
@@ -39,7 +38,7 @@ p {
 
 ul {
   color: white;
-  list-style-type:;
+  text-align: left;
   padding: 5px 35px 5px 35px;
 }
 
