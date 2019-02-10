@@ -1,12 +1,12 @@
 header {
   padding: 5px 5px 5px 5px;
   font-family: 'Cormorant', regular;
-  color: black;
 }
 
 nav {
-  float: left;
   display: inline;
+  font-size: 32pt;
+  padding: 30px 10px 10px 20px;
 }
 
 body {
@@ -16,8 +16,10 @@ body {
 
 h1 {
    font-family: 'Cormorant', regular;
- font-size: 14pt;
-}
+  font-size: 28pt;
+  color: #9CC4E4;
+  padding-left: 35px;
+  }
 
 h2 {
   font-family: 'Cormorant', regular;
@@ -30,7 +32,8 @@ h2 {
 h3{
   color: white;
   font-size: 18pt;
-  text-align: left;}
+  text-align: left;
+  }
 
 p {
   font-family: 'Cormorant', regular;
@@ -69,52 +72,34 @@ a:active {
 
 .homepage-title{
   float: left;
-  display: inline;
-  font-size: 32pt;
-  padding: 30px 10px 10px 20px;
   color: black;
 }
 
 .title{
   float: left;
-  display: inline;
-  font-size: 32pt;
-  padding: 30px 10px 10px 20px;
   color: white;
 }
 
 .homepage-topline{
   float: right;
-  display: inline;
-  font-size: 32pt;
-  padding: 30px 10px 10px 20px;
   color: black;
 }
 
 .topline{
   float: right;
-  display: inline;
-  font-size: 32pt;
-  padding: 30px 10px 10px 20px;
   color: white;
 }
 
 .SubTitle{
   font-family: 'Cormorant', regular;
-  font-size: 28pt;
-  color: #9CC4E4;
-  padding-left: 35px;
   margin-top: 120px;
 }
 
 .Intro{
   text-align: left;
   display: inline-block;
-  font-size: 14pt;
   font color: white;
   max-width: 90%;
-  margin-right: 50px;
-  margin-bottom: 20px;
   padding: 5px 35px 5px 35px;
 }
 
@@ -129,7 +114,7 @@ a:active {
 .Content {
   color: white;
   padding: 10px 5px 10px 5px;
-  font color: #25232D;
+  max-width: 90%;
 }
 
 .Meeting {
@@ -137,7 +122,6 @@ a:active {
   font-family: 'Cormorant', regular;
   color: white;
   border: 1px solid black;
-  font color: white;
   text-align: center;
 }
 
@@ -145,13 +129,11 @@ a:active {
   background-color: #9CC4E4;
   font-family: 'Cormorant', regular;
   text-align: center;
-  font-size: 14pt;
 }
 
 footer {
   height: 50px;
   color: #9CC4E4;
-  font color: #23C9F8;
   text-align: center;
   font-family: 'Cormorant', regular;
   font-size: 12pt;
