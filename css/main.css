@@ -18,14 +18,14 @@ h1 {
    font-family: 'Cormorant', regular;
   font-size: 28pt;
   color: #9CC4E4;
-  padding-left: 35px;
+  padding-left: 50px;
   }
 
 h2 {
   font-family: 'Cormorant', regular;
   font-size: 28pt;
   color: #9CC4E4;
-  padding-left: 35px;
+  padding-left: 50px;
 
 }
 
@@ -43,12 +43,12 @@ p {
 
 ul {
   color: white;
-  padding: 5px 35px 5px 35px;
+  padding-left: 50px;
 }
 
 ol {
   color: white;
-  padding: 5px 35px 5px 35px;
+  padding-left: 50px;
 }
 
 a {
@@ -107,7 +107,7 @@ a:active {
   text-align: left;
   font color: white;
   max-width: 90%;
-  margin-left: 100px;
+  padding-left: 100px;
 }
 
 .BuildSomething{
