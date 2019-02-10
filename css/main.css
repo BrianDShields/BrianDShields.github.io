@@ -37,6 +37,10 @@ h3{
   }
 
 p {
+    text-align: left;
+  display: inline-block;
+  max-width: 90%;
+  padding-left: 50px;
 }
 
 ul {
@@ -87,13 +91,6 @@ a:active {
 
 .SubTitle{
   margin-top: 150px;
-}
-
-.Intro{
-  text-align: left;
-  display: inline-block;
-  max-width: 90%;
-  padding: 5px 35px 5px 35px;
 }
 
 .chapters{
