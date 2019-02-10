@@ -103,6 +103,13 @@ a:active {
   padding: 5px 35px 5px 35px;
 }
 
+.chapters{
+  text-align: left;
+  font color: white;
+  max-width: 90%;
+  margin-left: 100px;
+}
+
 .BuildSomething{
   text-align: center;
   color: white;
