@@ -34,7 +34,7 @@ h3{
 
 p {
   font-family: 'Cormorant', regular;
-  font-size: 14pt;
+  font-size: 18pt;
   color: white;
 }
 
@@ -71,7 +71,7 @@ a:active {
 .homepage-title{
   float: left;
   display: inline;
-  font-size: 24pt;
+  font-size: 32pt;
   padding: 30px 10px 10px 20px;
   color: black;
 }
@@ -79,7 +79,7 @@ a:active {
 .title{
   float: left;
   display: inline;
-  font-size: 24pt;
+  font-size: 32pt;
   padding: 30px 10px 10px 20px;
   color: white;
 }
@@ -87,7 +87,7 @@ a:active {
 .homepage-topline{
   float: right;
   display: inline;
-  font-size: 24pt;
+  font-size: 32pt;
   padding: 30px 10px 10px 20px;
   color: black;
 }
@@ -95,7 +95,7 @@ a:active {
 .topline{
   float: right;
   display: inline;
-  font-size: 24pt;
+  font-size: 32pt;
   padding: 30px 10px 10px 20px;
   color: white;
 }
