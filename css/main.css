@@ -1,6 +1,10 @@
+html {
+    font-family: 'Cormorant', regular;
+    color: white;
+}
+
 header {
   padding: 5px 5px 5px 5px;
-  font-family: 'Cormorant', regular;
 }
 
 nav {
@@ -10,23 +14,19 @@ nav {
 }
 
 body {
- font-family: 'Cormorant', regular;
   font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
 }
 
 h1 {
-   font-family: 'Cormorant', regular;
   font-size: 28pt;
   color: #9CC4E4;
   padding-left: 50px;
   }
 
 h2 {
-  font-family: 'Cormorant', regular;
   font-size: 28pt;
   color: #9CC4E4;
   padding-left: 50px;
-
 }
 
 h3{
@@ -37,17 +37,13 @@ h3{
   }
 
 p {
-  font-family: 'Cormorant', regular;
-  color: white;
 }
 
 ul {
-  color: white;
   padding-left: 50px;
 }
 
 ol {
-  color: white;
   padding-left: 50px;
 }
 
@@ -76,23 +72,20 @@ a:active {
   color: black;
 }
 
-.title{
-  float: left;
-  color: white;
-}
-
 .homepage-topline{
   float: right;
   color: black;
 }
 
+.title{
+  float: left;
+}
+
 .topline{
   float: right;
-  color: white;
 }
 
 .SubTitle{
-  font-family: 'Cormorant', regular;
   margin-top: 150px;
 }
 
@@ -105,17 +98,14 @@ a:active {
 
 .chapters{
   text-align: left;
-  font color: white;
   max-width: 90%;
   padding-left: 100px;
 }
 
 .BuildSomething{
   text-align: center;
-  color: white;
   font-size: 22pt;
   background-color: #1B325F;
-  font-family: 'Cormorant', regular;
 }
 
 .Content {
@@ -126,22 +116,19 @@ a:active {
 
 .Meeting {
   background-color: #FB0C06;
-  font-family: 'Cormorant', regular;
-  color: white;
   border: 1px solid black;
   text-align: center;
 }
 
 .Social{
   background-color: #9CC4E4;
-  font-family: 'Cormorant', regular;
   text-align: center;
+  color: black;
 }
 
 footer {
   height: 50px;
   color: #9CC4E4;
   text-align: center;
-  font-family: 'Cormorant', regular;
   font-size: 12pt;
 }
