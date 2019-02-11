@@ -14,19 +14,20 @@ nav {
 }
 
 body {
-  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
 }
 
 h1 {
   font-size: 28pt;
   color: #9CC4E4;
-  padding-left: 50px;
+  padding-left: 10%;
   }
 
 h2 {
   font-size: 28pt;
   color: #9CC4E4;
-  padding-left: 50px;
+  padding-left: 10%;
+  m
 }
 
 h3{
@@ -40,15 +41,15 @@ p {
   text-align: left;
   display: inline-block;
   max-width: 90%;
-  padding-left: 50px;
+  padding-left: 10%;
 }
 
 ul {
-  padding-left: 50px;
+  padding-left: 10%;
 }
 
 ol {
-  padding-left: 50px;
+  padding-left: 10%;
 }
 
 a {
@@ -129,3 +130,4 @@ footer {
   text-align: center;
   font-size: 12pt;
 }
+
