@@ -13,22 +13,9 @@ nav {
   padding: 30px 10px 10px 20px;
 }
 
-body {background-color: #25232D;
-}	
-
-img {width: 100%; 
-}
-	
-.bg {
- background-image: url("Images/Statue of the Republic.jpg");
- height: 100%; 
- background-position: center;
- background-repeat: no-repeat;
- background-size: cover;
-}
-
 body {
   font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  background-color: #25232D;
 }
 
 h1 {
@@ -84,6 +71,9 @@ a:hover {
 
 a:active {
   text-decoration: underline;
+}
+
+img {width: 100%; 
 }
 
 .homepage-title{
