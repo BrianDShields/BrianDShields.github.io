@@ -19,13 +19,13 @@ body {
 }
 
 h1 {
-  font-size: 28pt;
+  font-size: calc(32px + (32 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: #9CC4E4;
   padding-left: 10%;
   }
 
 h2 {
-  font-size: 28pt;
+  font-size: calc(28px + (28 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: #9CC4E4;
   padding-left: 10%;
   m
