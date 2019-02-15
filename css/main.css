@@ -76,23 +76,6 @@ a:active {
 img {width: 100%; 
 }
 
-.homepage-title{
-  float: left;
-  color: black;
-}
-
-.homepage-topline{
-  float: right;
-  color: black;
-}
-
-.title{
-  float: left;
-}
-
-.topline{
-  float: right;
-}
 
 .SubTitle{
   margin-top: 150px;
@@ -145,7 +128,11 @@ footer {
 
 .topnav {
   position: relative;
-  overflow: hidden;
+}
+
+.topnav_HomePage {
+  position: relative;
+  color: black;
 }
 
 /* Style the links inside the navigation bar */
