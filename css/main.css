@@ -115,6 +115,14 @@ img {width: 100%;
   max-width: 90%;
 }
 
+
+.Workshops {
+  color: white;
+  padding: 10px 5px 10px 5px;
+  max-width: 30%;
+  float: left;
+}
+
 .Meeting {
   background-color: #FB0C06;
   border: 1px solid black;
