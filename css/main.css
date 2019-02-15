@@ -118,9 +118,10 @@ img {width: 100%;
 
 .Workshops {
   color: white;
-  padding: 10px 5px 10px 5px;
-  max-width: 30%;
-  float: left;
+  padding-left: 3%;
+  display: inline-block;
+  width: 30%;
+  max-width: 80%;
 }
 
 .Meeting {
