@@ -9,7 +9,7 @@ header {
 
 nav {
   display: inline;
-  font-size: 32pt;
+  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
   padding: 30px 10px 10px 20px;
 }
 
@@ -126,6 +126,7 @@ footer {
 
 .topnav {
   position: relative;
+  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .topnav_HomePage {
@@ -138,7 +139,6 @@ footer {
   float: left;
   text-align: center;
   padding: 14px 16px;
-  font-size: 32px;
 }
 
 /* Change the color of links on hover */
