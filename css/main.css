@@ -129,6 +129,11 @@ footer {
   font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
 }
 
+.topnav-home {
+  position: relative;
+  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
+}
+
 .topnav a {
   float: left;
   text-align: center;
@@ -168,8 +173,6 @@ footer {
     transform: none;
   }
 }
-
-
 
 .topnav a-home {
   float: left;
