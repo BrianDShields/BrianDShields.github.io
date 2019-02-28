@@ -129,29 +129,20 @@ footer {
   font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
 }
 
-.topnav_HomePage {
-  position: relative;
-  color: black;
-}
-
-/* Style the links inside the navigation bar */
 .topnav a {
   float: left;
   text-align: center;
   padding: 14px 16px;
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
     color:#9CC4E4;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
   color:#9CC4E4;
 }
 
-/* Centered section inside the top navigation */
 .topnav-centered a {
   float: none;
   position: absolute;
@@ -160,12 +151,10 @@ footer {
   transform: translate(-50%, -50%);
 }
 
-/* Right-aligned section inside the top navigation */
 .topnav-right {
   float: right;
 }
 
-/* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
 @media screen and (max-width: 700px) {
   .topnav a, .topnav-right {
     float: none;
@@ -180,3 +169,30 @@ footer {
   }
 }
 
+
+
+.topnav a-home {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+.topnav a:hover-home {
+    color:#9CC4E4;
+}
+
+.topnav a.active-home {
+  color:#9CC4E4;
+}
+
+.topnav-centered a-home {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.topnav-right-home {
+  float: right;
+}
