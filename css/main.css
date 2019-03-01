@@ -99,7 +99,6 @@ img {width: 100%;
 
 .Workshops {
   color: white;
-  height: 300px;
   max-width: 80%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
@@ -108,13 +107,11 @@ img {width: 100%;
 
 .Issues {
   color: white;
-  height: 300px;
-  max-width: 90%;
+  max-width: 80%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
-  margin: 5%;
+  margin: 10%;
 }
-
 
 .Meeting {
   background-color: #FB0C06;
