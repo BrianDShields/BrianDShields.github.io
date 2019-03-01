@@ -98,11 +98,21 @@ img {width: 100%;
   max-width: 90%;
 }
 
-
 .Workshops {
   color: white;
   padding: 10px 5px 10px 5px;
-  max-width: 90%;
+  max-width: 30%;
+  border: white solid 1px;
+  padding-left: 10%;
+  height: 500px;
+}
+
+.Issues {
+  color: white;
+  padding: 10px 5px 10px 5px;
+  max-width: 20%;
+  border: white solid 1px;
+  padding-left: 10%;
 }
 
 .Meeting {
