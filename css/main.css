@@ -99,20 +99,22 @@ img {width: 100%;
 
 .Workshops {
   color: white;
-  padding: 10px 5px 10px 5px;
-  max-width: 30%;
+  height: 300px;
+  max-width: 80%;
   border: white solid 1px;
-  padding-left: 10%;
-  height: 500px;
+  padding: 10px 5px 10px 5px;
+  margin: 10%;
 }
 
 .Issues {
   color: white;
-  padding: 10px 5px 10px 5px;
-  max-width: 20%;
+  height: 300px;
+  max-width: 90%;
   border: white solid 1px;
-  padding-left: 10%;
+  padding: 10px 5px 10px 5px;
+  margin: 5%;
 }
+
 
 .Meeting {
   background-color: #FB0C06;
