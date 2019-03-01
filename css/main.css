@@ -76,9 +76,8 @@ a:active {
 img {width: 100%; 
 }
 
-
 .SubTitle{
-  margin-top: 150px;
+  margin-top: 200px;
 }
 
 .chapters{
@@ -172,7 +171,7 @@ footer {
   float: right;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
   .topnav a, .topnav-right {
     float: none;
     display: block;
