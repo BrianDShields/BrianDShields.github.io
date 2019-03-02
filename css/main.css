@@ -1,224 +1,185 @@
 html {
-    font-family: 'Cormorant', regular;
-    color: white;
-}
+  font-family: 'Cormorant', regular;
+  color: white;}
 
 header {
-  padding: 5px 5px 5px 5px;
-}
+  padding: 5px 5px 5px 5px;}
 
 nav {
   display: inline;
   font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
-  padding: 30px 10px 10px 20px;
-}
+  padding: 30px 10px 10px 20px;}
 
 body {
   font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
-  background-color: #25232D;
-}
+  background-color: #25232D;}
 
 h1 {
   font-size: calc(32px + (32 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: #9CC4E4;
-  padding-left: 10%;
-  }
+  padding-left: 10%;}
 
 h2 {
   font-size: calc(28px + (28 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: #9CC4E4;
-  padding-left: 10%;
-  m
-}
+  padding-left: 10%;}
 
 h3{
   color: white;
   font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
   text-align: left;
-  margin: initial;
-  }
-
-
-.workshop{
-  color: white;
-  background-color: #FB0C06;
-  font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
-  text-align: center;
-    }
+  margin: initial;}
 
 p {
   text-align: left;
   display: inline-block;
   max-width: 80%;
-  padding-left: 10%;
-}
+  padding-left: 10%;}
 
 ul {
-  padding-left: 10%;
-}
+  padding-left: 10%;}
 
 ol {
-  padding-left: 10%;
-}
+  padding-left: 10%;}
 
-a {
-  color: inherit;
-}
+a {color: inherit;}
 
 a:link {
-  text-decoration: none;
-}
+  text-decoration: none;}
 
 a:visited {
-  text-decoration: none;
-}
+  text-decoration: none;}
 
 a:hover {
-  text-decoration: underline;
-}
+  text-decoration: underline;}
 
 a:active {
-  text-decoration: underline;
-}
+  text-decoration: underline;}
 
-img {width: 100%; 
-}
+img {
+  width: 100%; }
 
 .SubTitle{
-  margin-top: 200px;
-}
+  margin-top: 200px;}
 
-.chapters{
+.Chapters{
   text-align: left;
   max-width: 90%;
-  padding-left: 10%;
-}
+  padding-left: 10%;}
 
 .BuildSomething{
   text-align: center;
-  background-color: #1B325F;
-}
+  background-color: #1B325F;}
 
 .Content {
   color: white;
   padding: 10px 5px 10px 5px;
-  max-width: 90%;
-}
+  max-width: 90%;}
 
 .Workshops {
   color: white;
   max-width: 80%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
-  margin: 10%;
-}
+  margin: 10%;}
+
+.workshop{
+  color: white;
+  background-color: #FB0C06;
+  font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
+  text-align: center;}
 
 .Issues {
   color: white;
   max-width: 80%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
-  margin: 10%;
-}
+  margin: 10%;}
 
 .issue{
   background-color: #1B325F;
-  color: white;
-}
+  color: white;}
 
 .Meeting {
   background-color: #FB0C06;
   border: 1px solid black;
-  text-align: center;
-}
+  text-align: center;}
 
 .Social{
   background-color: #9CC4E4;
   text-align: center;
-  color: black;
-}
+  color: black;}
 
-footer {
+Footer {
   height: 50px;
   color: #9CC4E4;
   text-align: center;
-  font-size: 12pt;
-}
+  font-size: 12pt;}
 
 .topnav {
   position: relative;
-  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
-}
+  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));}
 
 .topnav-home {
   position: relative;
   font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
-  padding: 14px 16px;
-
-}
+  padding: 14px 16px;}
 
 .topnav a {
   float: left;
   text-align: center;
-  padding: 14px 16px;
-}
+  padding: 14px 16px;}
 
 .topnav a:hover {
-    color:#9CC4E4;
-}
+  color:#9CC4E4;}
 
 .topnav a.active {
-  color:#9CC4E4;
-}
+  color:#9CC4E4;}
 
 .topnav-centered a {
   float: none;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
-}
+  transform: translate(-50%, -50%);}
 
 .topnav-right {
-  float: right;
-}
+  float: right;}
 
 @media screen and (max-width: 1000px) {
-  .topnav a, .topnav-right {
-    float: none;
-    display: block;
-  }
+.topnav a {
+  float: none;
+  display: block;}
 
-  .topnav-centered a {
-    position: relative;
-    top: 0;
-    left: 0;
-    transform: none;
-  }
-}
+.topnav-right {
+  float: none;
+  display: block;}
+
+.topnav-centered a {
+  position: relative;
+  top: 0;
+  left: 0;
+  transform: none;}
+
+.topnav a.hover-home {
+  color:#9CC4E4;}
 
 .topnav a-home {
   float: left;
   text-align: center;
-  padding: 14px 16px;
-}
-
-.topnav a:hover-home {
-    color:#9CC4E4;
-}
+  padding: 14px 16px;}
 
 .topnav a.active-home {
-  color:#9CC4E4;
-}
+  color:#9CC4E4;}
 
 .topnav-centered a-home {
   float: none;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
-}
+  transform: translate(-50%, -50%);}
 
 .topnav-right-home {
-  float: right;
-}
+  float: right;}
+
+
