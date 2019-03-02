@@ -121,6 +121,12 @@ img {width: 100%;
   margin: 10%;
 }
 
+.issue{
+  text-align: center;
+  background-color: #1B325F;
+  color: white;
+}
+
 .Meeting {
   background-color: #FB0C06;
   border: 1px solid black;
