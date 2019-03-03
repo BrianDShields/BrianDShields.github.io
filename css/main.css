@@ -120,11 +120,6 @@ Footer {
   position: relative;
   font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));}
 
-.topnav-home {
-  position: relative;
-  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
-  padding: 14px 16px;}
-
 .topnav a {
   float: left;
   text-align: center;
@@ -136,14 +131,26 @@ Footer {
 .topnav a.active {
   color:#9CC4E4;}
 
-.topnav-centered a {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);}
-
 .topnav-right {
+  float: right;}
+
+.topnav-home {
+  position: relative;
+  font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
+  padding: 14px 16px;}
+
+.topnav-home a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;}
+
+.topnav-home a:hover {
+  color:#9CC4E4;}
+
+.topnav-home a.active {
+  color:#9CC4E4;}
+
+.topnav-right-home {
   float: right;}
 
 @media screen and (max-width: 1000px) {
@@ -154,12 +161,6 @@ Footer {
 .topnav-right {
   float: none;
   display: block;}
-
-.topnav-centered a {
-  position: relative;
-  top: 0;
-  left: 0;
-  transform: none;}
 
 .topnav a.hover-home {
   color:#9CC4E4;}
@@ -172,14 +173,22 @@ Footer {
 .topnav a.active-home {
   color:#9CC4E4;}
 
-.topnav-centered a-home {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);}
-
 .topnav-right-home {
   float: right;}
 
+.topnav-home a {
+  float: none;
+  display: block;
+  text-align:center;}
 
+.topnav-right {
+  float: none;
+  display: block;}
+
+.topnav-home a {
+  float: none;
+  display: block;}
+
+.topnav-right-home {
+  float: none;
+  display: block;}
