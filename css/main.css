@@ -137,7 +137,8 @@ Footer {
 .topnav-home {
   position: relative;
   font-size: calc(42px + (42 - 32) * ((100vw - 300px) / (1600 - 300)));
-  padding: 14px 16px;}
+  padding: 14px 16px;
+  color:black;}
 
 .topnav-home a {
   float: left;
