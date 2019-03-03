@@ -174,12 +174,15 @@ Footer {
   color:#9CC4E4;}
 
 .topnav-right-home {
-  float: right;}
+  float: right;
+  color: white;}
 
-.topnav-home a {
+.topnav-home{
   float: none;
   display: block;
-  text-align:center;}
+  text-align:center;
+    color:#9CC4E4;
+  }
 
 .topnav-right {
   float: none;
@@ -192,3 +195,4 @@ Footer {
 .topnav-right-home {
   float: none;
   display: block;}
+
