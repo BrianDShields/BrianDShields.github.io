@@ -162,31 +162,11 @@ Footer {
   float: none;
   display: block;}
 
-.topnav a.hover-home {
-  color:#9CC4E4;}
-
-.topnav a-home {
-  float: left;
-  text-align: center;
-  padding: 14px 16px;}
-
-.topnav a.active-home {
-  color:#9CC4E4;}
-
-.topnav-right-home {
-  float: right;
-  color: white;}
-
 .topnav-home{
   float: none;
   display: block;
   text-align:center;
-    color:#9CC4E4;
-  }
-
-.topnav-right {
-  float: none;
-  display: block;}
+  color:#9CC4E4;}
 
 .topnav-home a {
   float: none;
@@ -194,5 +174,6 @@ Footer {
 
 .topnav-right-home {
   float: none;
-  display: block;}
+  display: block;
+  color: white;}
 
