@@ -81,13 +81,16 @@ img {
   max-width: 80%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
-  margin: 10%;}
+  margin: 10%;
+  grid-gap: 10px;}
 
 .workshop{
   color: white;
   background-color: #FB0C06;
   font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
-  text-align: center;}
+  text-align: center;
+  margin: 5%;
+   }
 
 .Issues {
   color: white;
@@ -98,7 +101,9 @@ img {
 
 .issue{
   background-color: #1B325F;
-  color: white;}
+  color: white;
+    margin: 5%;
+    }
 
 .Meeting {
   background-color: #FB0C06;
@@ -176,4 +181,5 @@ Footer {
   float: none;
   display: block;
   color: white;}
+
 
