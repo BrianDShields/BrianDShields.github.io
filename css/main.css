@@ -57,7 +57,9 @@ a:active {
   text-decoration: underline;}
 
 img {
-  width: 100%; }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
 
 .SubTitle{
   margin-top: 200px;}
