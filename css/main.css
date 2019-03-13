@@ -33,13 +33,16 @@ h3{
 p {
   text-align: left;
   display: inline-block;
-  max-width: 80%;
-  padding-left: 10%;}
+  max-width: 90%;
+margin: auto}
 
 ul {
   padding-left: 10%;}
 
 ol {
+  padding-left: 10%;}
+
+li {
   padding-left: 10%;}
 
 a {color: inherit;}
@@ -169,6 +172,10 @@ Footer {
 .topnav-right {
   float: none;
   display: block;}
+  
+  
+.topnav-right-hidden {
+  display: none;}
 
 .topnav-home{
   float: none;
@@ -185,4 +192,6 @@ Footer {
   display: block;
   color: white;}
 
+.topnav-right-home-hidden {
+  display: none;}
 
