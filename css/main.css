@@ -76,6 +76,7 @@ img {
 .Content {
   color: white;
   padding: 10px 5px 10px 5px;
+  border: white solid 1px;
   max-width: 90%;}
 
 .Workshops {
