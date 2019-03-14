@@ -17,12 +17,12 @@ body {
 h1 {
   font-size: calc(32px + (32 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: #9CC4E4;
-  padding-left: 10%;}
+  padding-left: 5%;}
 
 h2 {
   font-size: calc(28px + (28 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: #9CC4E4;
-  padding-left: 10%;}
+  padding-left: 5%;}
 
 h3{
   color: white;
@@ -88,8 +88,7 @@ margin-top: 5%;}
   max-width: 80%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
-  margin: 10%;
-  grid-gap: 10px;}
+  margin: 10%;}
 
 .workshop{
   color: white;
