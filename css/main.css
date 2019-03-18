@@ -126,7 +126,7 @@ Footer {
   height: 50px;
   color: #9CC4E4;
   text-align: center;
-  font-size: 12pt;}
+  font-size: calc(12px + (20 - 12) * ((100vw - 300px) / (1600 - 300)));}
 
 .topnav {
   position: relative;
