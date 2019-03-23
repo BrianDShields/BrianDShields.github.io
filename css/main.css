@@ -87,11 +87,10 @@ img {
 .Workshops {
   color: white;
   max-width: 90%;
-  width: 90%;
   border: white solid 1px;
   padding: 10px 5px 10px 5px;
-  display: inline-block;
-  margin: 5%;}
+  display: inline-grid;
+  margin: 1%;}
 
 .workshop{
   color: white;
@@ -104,9 +103,9 @@ img {
   color: white;
   max-width: 90%;
   border: white solid 1px;
-  display: inline-block;
-  width: 90%;
-  margin: 5%;}
+  padding: 10px 5px 10px 5px;
+  display: inline-grid;
+  margin: 1%;}
 
 .issue{
   background-color: #1B325F;
@@ -198,4 +197,5 @@ Footer {
 
 .topnav-right-home-hidden {
   display: none;}
+
 
