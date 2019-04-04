@@ -20,8 +20,7 @@ h1 {
 
 h2 {
   font-size: calc(28px + (28 - 14) * ((100vw - 300px) / (1600 - 300)));
-  color: #9CC4E4;
-  padding-left: 5%;}
+  color: #9CC4E4;}
 
 h3{
   color: white;
@@ -59,14 +58,21 @@ img {
   margin-right: auto;
   margin-top: 5%;}
 
-.SubTitle {margin-top: 200px;}
+.SubTitle {
+  margin-top: 200px;
+  padding-left: 5%;}
 
-.chapters{
+.chapters {
   text-align: left;
   max-width: 90%;
   padding-left: 65%;}
 
-.BuildSomething{
+
+.CardTitle {
+  text-align: center;
+  max-width: 90%;}
+
+.BuildSomething {
   text-align: center;
   background-color: #1B325F;}
 
@@ -92,7 +98,7 @@ img {
   display: inline-grid;
   margin: 1%;}
 
-.workshop{
+.workshop {
   color: white;
   background-color: #FB0C06;
   font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
