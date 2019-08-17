@@ -101,7 +101,7 @@ img {
 
 .workshop {
   color: white;
-  background-color: #FB0C06;
+  background-color: #1B325F;
   font-size: calc(18px + (28 - 18) * ((100vw - 300px) / (1600 - 300)));
   text-align: center;
   margin: 5%;}
