@@ -79,11 +79,11 @@ img {
   color: white;
   padding: 10px 5px 10px 5px;
   border: white solid 1px;
+  border-radius: 25px;
   width: 48%;
   display: inline-grid;}
 
 .HomeContentList {margin: auto;}
-
 
 .Content {
   color: white;
@@ -95,6 +95,7 @@ img {
   color: white;
   max-width: 90%;
   border: white solid 1px;
+  border-radius: 25px;
   padding: 10px 5px 10px 5px;
   display: inline-grid;
   margin: 1%;}
@@ -182,7 +183,6 @@ Footer {
 .topnav-right {
   float: none;
   display: block;}
-  
   
 .topnav-right-hidden {
   display: none;}
