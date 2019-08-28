@@ -80,7 +80,8 @@ img {
   padding: 10px 5px 10px 5px;
   border: white solid 1px;
   border-radius: 25px;
-  width: 48%;
+  width: 45%;
+  margin: 1%;
   display: inline-grid;}
 
 .HomeContentList {margin: auto;}
