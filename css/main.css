@@ -83,12 +83,13 @@ img {
 
 .HomeContentList {margin: auto;}
 
+.InsightsContentList {margin: auto;}
+
 .Content {
   color: white;
   padding: 10px 5px 10px 5px;
   max-width: 90%;
   margin: auto;}
-
 
 .BookPodcast {
   color: white;
