@@ -92,6 +92,16 @@ img {
   max-width: 90%;
   margin: auto;}
 
+
+.BookPodcast {
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: white solid 1px;
+  border-radius: 25px;
+  width: 45%;
+  margin: 1%;
+  display: inline-grid;}
+
 .Workshops {
   color: white;
   max-width: 90%;
