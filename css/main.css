@@ -65,7 +65,9 @@ img {
 .chapters {
   text-align: left;
   max-width: 90%;
-  padding-left: 65%;}
+  padding-left: 65%;
+  columns: 3;
+}
 
 
 .CardTitle {
