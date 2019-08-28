@@ -62,13 +62,8 @@ img {
   margin-top: 200px;
   padding-left: 5%;}
 
-.chapters {
-  text-align: left;
-  max-width: 90%;
-  padding-left: 65%;
-  columns: 3;
-}
-
+.Chapters {
+  columns: 2;}
 
 .CardTitle {
   text-align: center;}
