@@ -213,10 +213,12 @@ Footer {
 .topnav-right-home-hidden {
   display: none;}
   
-.HomeContent .BookPodcast{
+.HomeContent {
   width: 90%;
   margin: 2.5%}
 
 .Workshops {
   width: 100%;}
  
+  .Workshops {
+  width: 100%;}
