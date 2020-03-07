@@ -90,26 +90,7 @@ img {
   border: #9CC4E4 solid 1px;
   border-radius: 25px;
   box-shadow: 3px 3px 2px #9CC4E4;
-  margin: 3%;
-
-  
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translate3d(0, 100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-.fadeInUp {
-  animation-name: fadeInUp;
-}
-
-}
+  margin: 3%;}
 
 .BookPodcast {
   color: white;
