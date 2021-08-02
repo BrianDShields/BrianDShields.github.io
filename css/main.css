@@ -92,15 +92,6 @@ img {
   box-shadow: 3px 3px 2px #9CC4E4;
   margin: 3%;}
 
-.BookPodcast {
-  color: white;
-  padding: 10px 5px 10px 5px;
-  border: white solid 1px;
-  border-radius: 25px;
-  width: 45%;
-  margin: 1%;
-  display: inline-grid;}
-
 .Workshops {
   color: white;
   width: 29%;
@@ -120,8 +111,10 @@ img {
 
 .Issues {
   color: white;
+  width: 29%;
   max-width: 90%;
   border: white solid 1px;
+  border-radius: 25px;
   padding: 10px 5px 10px 5px;
   display: inline-grid;
   margin: 1%;}
